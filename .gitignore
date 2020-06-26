@@ -5,9 +5,11 @@ TutorialesPython/code/Tutorial05-code.py
 TutorialesPython/code/Tut-05-*.py
 TutorialesPython/rptAux/
 
-## Exclude folder
+## Excluded folders
 
 exclude/
+public/
+blogdown/
 
 ## Busy files
 *.*(busy)
