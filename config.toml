@@ -1,0 +1,47 @@
+baseurl = "http://www.pigmeo.net/"
+languageCode = "es-es"
+title = "Bienvenido a Pigmeo. Web personal de Fernando San Segundo."
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Información"
+    url = "/about/"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/FernandoSanSeg6"
+[[menu.main]]
+    name = "Enlaces"
+    url = "/Enlaces/"
+    
+    
+
+[params]
+    description = "Web personal de Fernando San Segundo, usando Hugo y blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+

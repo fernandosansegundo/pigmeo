@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pajareo on Bienvenido a Pigmeo. Web personal de Fernando San Segundo.</title>
+    <link>/categories/pajareo/</link>
+    <description>Recent content in pajareo on Bienvenido a Pigmeo. Web personal de Fernando San Segundo.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pajareo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salida alrededor del macizo de Siete Picos.</title>
+      <link>/2020/06/20/salida-siete-picos-20200620/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/20/salida-siete-picos-20200620/</guid>
+      <description>  Ruta: Desde Cercedilla subimos a Camorritos, de ahí a Navarrulaque, pradera de Majalasna, Senda de los Alevines, Collado Ventoso, Siete Picos, Alto del Telégrafo, Senda del Calvario, Cercedilla
+ Aves 🐧  Un arrendajo dándose un festín cerca de Camorritos
+ Un aguila calzada cerca de Navarrulaque
+ Una cigüeña negra sobrevolando el Alto del Telégrafo.
+   </description>
+    </item>
+    
+  </channel>
+</rss>
